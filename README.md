@@ -1,6 +1,5 @@
-## Hi there 👋 Welcome to my Github! I like to and I'm exploring Cloud Tech 🐍 ☁️
 <p align="center">
-  Welcome to my GitHub! 🧠✨
+  ## Hi there 👋 Welcome to my Github! I like to and I'm exploring Cloud Tech 🐍 ☁️
 </p>
 
 <p align="center">
