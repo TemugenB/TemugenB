@@ -1,9 +1,10 @@
 <p align="center">
-  ## Hi there 👋 Welcome to my Github! I like to and I'm exploring Cloud Tech 🐍 ☁️
+   <h2> Hi there 👋 Welcome to my Github! I like to write code in OOP and I'm exploring CI/CD 🛠️ </h2>
 </p>
 
 <p align="center">
-  <img src="your-image-url-here" alt="Banner or Profile Image" />
+  ![Alt text](https://user-images.githubusercontent.com/1234567/some-image.png)
+  <img src="your-image-url-here" alt="Profile Image" />
 </p>
 
 <p align="center">
