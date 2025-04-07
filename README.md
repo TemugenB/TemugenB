@@ -1,10 +1,9 @@
 <p align="center">
-   <h2> Hi there 👋 Welcome to my Github! I like to write code in OOP and I'm exploring CI/CD 🛠️ </h2>
+<h2> Hi there 👋 Welcome to my GitHub! I'm currently building a C# GUI game with OOP and learning with the help of <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">docs.csharp.com</a> </h2>
 </p>
 
 <p align="center">
-  ![Alt text](https://user-images.githubusercontent.com/1234567/some-image.png)
-  <img src="your-image-url-here" alt="Profile Image" />
+   <img src="https://github.com/user-attachments/assets/f0111ff3-b02b-43ed-8b3e-10b54708b3b9" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" />
 </p>
 
 <p align="center">
